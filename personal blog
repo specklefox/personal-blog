@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lily's Middle School Diary</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #ffffff; /* White background */
+            color: #333333; /* Dark text color */
+            margin: 20px;
+        }
+
+        header {
+            background-color: #663399; /* Purple header background */
+            color: #00ced1; /* Teal text color */
+            padding: 10px;
+            text-align: center;
+        }
+
+        main {
+            margin-top: 20px;
+        }
+
+        section {
+            margin-bottom: 30px;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #663399; /* Purple footer background */
+            color: #00ced1; /* Teal text color */
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Lily's Middle School Diary</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>
+                Hi, I'm Lily, a middle school girl sharing my daily adventures, challenges, and joys. Join me in my
+                journey through middle school life as I navigate friendships, classes, and everything in between.
+            </p>
+        </section>
+
+        <section>
+            <h2>Diary Entries</h2>
+            <!-- Add your diary entries or posts here with links and summaries -->
+            <p><a href="#">Entry 1</a> - Description of your experience.</p>
+            <p><a href="#">Entry 2</a> - Another glimpse into your middle school life.</p>
+            <!-- Add more entries as needed -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Lily's Middle School Diary. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
